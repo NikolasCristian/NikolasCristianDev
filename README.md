@@ -6,8 +6,9 @@
 ---
 
 ### 📊 GitHub Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolasCristianDev&show_icons=true&theme=dark&count_private=true"/>
+<div align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasCristianDev&layout=compact&theme=dark"/>
 </div>
 
 ---
